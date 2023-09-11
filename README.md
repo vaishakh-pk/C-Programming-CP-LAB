@@ -18,5 +18,3 @@ Make your changes and test them locally.
 Commit your changes and push them to your forked repository.
 Submit a pull request to this repository.
 
-Contact Us
-If you have any questions or comments about this repository, please don't hesitate to contact Us. We welcome your feedback!
